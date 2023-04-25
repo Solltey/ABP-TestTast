@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestTesk.Application/1.0.0": {
+        "dependencies": {
+          "TestTask.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TestTesk.Application.dll": {}
+        }
+      },
+      "TestTask.Domain/1.0.0": {
+        "runtime": {
+          "TestTask.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTesk.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestTask.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

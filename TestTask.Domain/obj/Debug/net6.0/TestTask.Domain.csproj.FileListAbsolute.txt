@@ -1,0 +1,12 @@
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\bin\Debug\net6.0\TestTask.Domain.deps.json
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\bin\Debug\net6.0\TestTask.Domain.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\bin\Debug\net6.0\TestTask.Domain.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\TestTask.Domain.csproj.AssemblyReference.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\TestTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\TestTask.Domain.AssemblyInfoInputs.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\TestTask.Domain.AssemblyInfo.cs
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\TestTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\TestTask.Domain.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\refint\TestTask.Domain.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\TestTask.Domain.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Domain\obj\Debug\net6.0\ref\TestTask.Domain.dll

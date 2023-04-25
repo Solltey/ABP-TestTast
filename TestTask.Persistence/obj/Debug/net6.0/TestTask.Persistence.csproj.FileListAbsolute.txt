@@ -1,0 +1,17 @@
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\bin\Debug\net6.0\TestTask.Persistence.deps.json
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\bin\Debug\net6.0\TestTask.Persistence.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\bin\Debug\net6.0\TestTask.Persistence.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\bin\Debug\net6.0\TestTask.Domain.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\bin\Debug\net6.0\TestTesk.Application.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\bin\Debug\net6.0\TestTask.Domain.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\bin\Debug\net6.0\TestTesk.Application.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.csproj.AssemblyReference.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.AssemblyInfoInputs.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.AssemblyInfo.cs
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.csproj.CopyComplete
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\refint\TestTask.Persistence.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\TestTask.Persistence.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTask.Persistence\obj\Debug\net6.0\ref\TestTask.Persistence.dll

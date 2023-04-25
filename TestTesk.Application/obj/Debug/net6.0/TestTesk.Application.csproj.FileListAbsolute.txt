@@ -1,0 +1,15 @@
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\bin\Debug\net6.0\TestTesk.Application.deps.json
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\bin\Debug\net6.0\TestTesk.Application.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\bin\Debug\net6.0\TestTesk.Application.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\bin\Debug\net6.0\TestTask.Domain.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\bin\Debug\net6.0\TestTask.Domain.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.csproj.AssemblyReference.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.AssemblyInfoInputs.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.AssemblyInfo.cs
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.csproj.CoreCompileInputs.cache
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.csproj.CopyComplete
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\refint\TestTesk.Application.dll
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\TestTesk.Application.pdb
+C:\Users\Solltey\Desktop\TestTask.Backend\TestTesk.Application\obj\Debug\net6.0\ref\TestTesk.Application.dll
